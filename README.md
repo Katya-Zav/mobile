@@ -23,3 +23,15 @@
 Создание отчета о проведенном тестировании мобильного приложения Shopping List
 
 [Ссылка на отчет о тестировании](https://docs.google.com/document/d/1mcE3y-Ba_f4Ch2_enaU4XLAuVHEWcOFQ/edit?usp=sharing&ouid=110201890590256679017&rtpof=true&sd=true)
+
+### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 8.17
+
+Перехват трафика с помощью Charles Proxy
+
+1. Добавлены несколько разных товаров в корзину. Отправлен и видоизменён запрос на удаление одного товара — удалён другой товар.
+2. Смоделирована ситуация, при которой при обращении к https://demoshopping.ru отображается произвольная картинка.
+3. Приложен скриншот перехваченного HTTPS-запроса с мобильного устройства с заголовком User-Agent.
+
+[Ссылка на запись экрана](https://drive.google.com/file/d/15eH_uTNJb35_DNAHFWgkj_CgPR4ljAtG/view?usp=drive_link)
+
+[Ссылка на скриншот с перехваченным https запросом](https://drive.google.com/file/d/1sUpNM3rbkJoHQnXhdYy6v_AoXIiClKqT/view?usp=drive_link)
